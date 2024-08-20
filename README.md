@@ -20,13 +20,13 @@ Here are some my  projects:
 fostering connections, and nurturing a vibrant online community. With its user-centric design and feature-rich 
 platform, ChatiPhi aims to create a welcoming space where individuals can interact, share, and engage with others in a 
 meaningful and authentic way.
-Project Link: https://ChatiPhi.CoderSachin.com
+Project Link: http://ChatiPhi.CoderSachin.com
    
 3. **Blogry**:
 “Blogry” is a web-based application developed using React and MySQL, with the primary goal of providing users with a 
 seamless and efficient platform for creating, editing, and managing their blog content. This project aims to offer an 
 intuitive and user-friendly interface for writers and bloggers to express their thoughts and ideas.
-Project Link: https://Blogry.CoderSachin.com
+Project Link: http://Blogry.CoderSachin.com
 
 ## 🛠️ Technologies & Tools
 
@@ -47,6 +47,6 @@ Project Link: https://Blogry.CoderSachin.com
 
 - LinkedIn:   [Sachin Verma](https://www.linkedin.com/in/sachinverma006/)
 - Email:      contact@codersachin.com
-- Website:   [www.CoderSachin.com](https://www.codersachin.com/)
+- Website:   [www.CoderSachin.com](http://codersachin.com/)
 
 Feel free to explore my repositories and reach out to collaborate or discuss anything. Happy coding!
